@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Neubrutalism Scrollbar
+/* Firefox scrollbar */
+.scrollbox {
+    scrollbar-width: thin;
+    scrollbar-color: #0078ff rgba(255, 255, 255, 0);
+}
+
+
+
